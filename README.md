@@ -211,6 +211,7 @@ npm run dev
 3. Add Environment Variable:
    - `VITE_API_BASE_URL`: `https://ecommerce-backend.onrender.com/api`
 4. Deploy. The included `frontend/vercel.json` ensures all client-side routes (`/admin/dashboard`, `/sales/dashboard`, etc.) resolve properly.
+![Uploading Screenshot 2026-09-04 151711.png…]()
 
 ---
 
